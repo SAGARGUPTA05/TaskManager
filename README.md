@@ -17,7 +17,6 @@ A task management web application built using the MERN stack.
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/SAGARGUPTA05/TaskManager.git
 cd task-manager
 
@@ -34,7 +33,7 @@ npm install
 npm run dev
 
  Screenshots
-![image](https://github.com/user-attachments/assets/b0d716b7-4f27-4129-8fce-e9072058c73c)
+https://github.com/user-attachments/assets/b0d716b7-4f27-4129-8fce-e9072058c73c
 
 ![image](https://github.com/user-attachments/assets/a3ed6e50-798f-4a82-8e18-4d6bfc6897d6)
 
